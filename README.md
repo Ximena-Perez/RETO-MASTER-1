@@ -6,7 +6,7 @@
 
 La **nube** es el nombre que le damos al servicio de almacenamiento de datos a servidores localizados en la red. Esta modalidad permite subir, abrir, modificar o usar programas y archivos a través de una conexión sin la necesidad de que se encuentren en el almacenamiento del dispositivo que usas.
 
-![Marcador 1](C:\Users\Ximena\OneDrive\Documents\RETO-MASTER-1\fotos\El-futuro-empresarial-está-en-la-nube-e1560566724502-removebg-preview.png)
+![Marcador 1](/fotos/El-futuro-empresarial-está-en-la-nube-e1560566724502-removebg-preview.png)
 
 ## **Tipos de nube**
 
